@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OOP lab\\Lab 4\\T4.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71649641-0CE3-4553-8B65-13992848A2EF}|T4.2\\T4.2.vcxproj|C:\\OOP lab\\Lab 4\\T4.2\\T4.2\\T4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71649641-0CE3-4553-8B65-13992848A2EF}|T4.2\\T4.2.vcxproj|solutionrelative:T4.2\\T4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71649641-0CE3-4553-8B65-13992848A2EF}|T4.2\\T4.2.vcxproj|C:\\OOP lab\\Lab 4\\T4.2\\T4.2\\Infrastructure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71649641-0CE3-4553-8B65-13992848A2EF}|T4.2\\T4.2.vcxproj|solutionrelative:T4.2\\Infrastructure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71649641-0CE3-4553-8B65-13992848A2EF}|T4.2\\T4.2.vcxproj|C:\\OOP lab\\Lab 4\\T4.2\\T4.2\\Infrastructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71649641-0CE3-4553-8B65-13992848A2EF}|T4.2\\T4.2.vcxproj|solutionrelative:T4.2\\Infrastructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Infrastructure.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 4\\T4.2\\T4.2\\Infrastructure.h",
+              "RelativeDocumentMoniker": "T4.2\\Infrastructure.h",
+              "ToolTip": "C:\\OOP lab\\Lab 4\\T4.2\\T4.2\\Infrastructure.h",
+              "RelativeToolTip": "T4.2\\Infrastructure.h",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-12T20:15:55.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Infrastructure.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 4\\T4.2\\T4.2\\Infrastructure.cpp",
+              "RelativeDocumentMoniker": "T4.2\\Infrastructure.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 4\\T4.2\\T4.2\\Infrastructure.cpp",
+              "RelativeToolTip": "T4.2\\Infrastructure.cpp",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAIEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T20:15:50.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "T4.2.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 4\\T4.2\\T4.2\\T4.2.cpp",
+              "RelativeDocumentMoniker": "T4.2\\T4.2.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 4\\T4.2\\T4.2\\T4.2.cpp",
+              "RelativeToolTip": "T4.2\\T4.2.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T19:01:27.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
