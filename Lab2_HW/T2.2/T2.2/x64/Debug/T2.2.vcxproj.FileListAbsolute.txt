@@ -1,1 +1,2 @@
 C:\OOP lab\Lab 2\T2.2\T2.2\x64\Debug\T2.2.exe
+C:\OOP lab\Lab 1\Lab1_HW\Lab2_HW\T2.2\T2.2\x64\Debug\T2.2.exe

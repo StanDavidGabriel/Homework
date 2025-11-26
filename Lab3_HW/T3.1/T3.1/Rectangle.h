@@ -23,6 +23,7 @@ public:
 
 	double getArea() const;
 	double getPerimeter() const;
+	int comparePermieter(Rectangle other);
 
 	void display() const;
 };

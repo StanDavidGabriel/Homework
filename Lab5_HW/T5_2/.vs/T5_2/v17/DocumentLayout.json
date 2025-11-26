@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OOP lab\\Lab 5\\T5_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\T5_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\T5_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Toys.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Toys.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Department.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Department.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Toys.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Toys.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ToysDepartment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\ToysDepartment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ShoesDepartment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\ShoesDepartment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Shoes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Shoes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Order.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Order.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Department.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Department.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Order.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Order.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Shoes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Shoes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ToysDepartment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\ToysDepartment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ShoesDepartment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\ShoesDepartment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Store.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Store.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Store.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2638F22-916D-4BAC-9EF1-1E18E242514C}|T5_2\\T5_2.vcxproj|solutionrelative:T5_2\\Store.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Store.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Store.cpp",
+              "RelativeDocumentMoniker": "T5_2\\Store.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Store.cpp",
+              "RelativeToolTip": "T5_2\\Store.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T21:06:51.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Store.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Store.h",
+              "RelativeDocumentMoniker": "T5_2\\Store.h",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Store.h",
+              "RelativeToolTip": "T5_2\\Store.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T21:06:48.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Order.cpp",
+              "RelativeDocumentMoniker": "T5_2\\Order.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Order.cpp",
+              "RelativeToolTip": "T5_2\\Order.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T21:06:44.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Order.h",
+              "RelativeDocumentMoniker": "T5_2\\Order.h",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Order.h",
+              "RelativeToolTip": "T5_2\\Order.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T21:06:39.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ToysDepartment.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ToysDepartment.cpp",
+              "RelativeDocumentMoniker": "T5_2\\ToysDepartment.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ToysDepartment.cpp",
+              "RelativeToolTip": "T5_2\\ToysDepartment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T21:06:36.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToysDepartment.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ToysDepartment.h",
+              "RelativeDocumentMoniker": "T5_2\\ToysDepartment.h",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ToysDepartment.h",
+              "RelativeToolTip": "T5_2\\ToysDepartment.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T21:06:32.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShoesDepartment.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ShoesDepartment.cpp",
+              "RelativeDocumentMoniker": "T5_2\\ShoesDepartment.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ShoesDepartment.cpp",
+              "RelativeToolTip": "T5_2\\ShoesDepartment.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T21:06:27.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoesDepartment.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ShoesDepartment.h",
+              "RelativeDocumentMoniker": "T5_2\\ShoesDepartment.h",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\ShoesDepartment.h",
+              "RelativeToolTip": "T5_2\\ShoesDepartment.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T21:06:24.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Department.cpp",
+              "RelativeDocumentMoniker": "T5_2\\Department.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Department.cpp",
+              "RelativeToolTip": "T5_2\\Department.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T21:06:20.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Department.h",
+              "RelativeDocumentMoniker": "T5_2\\Department.h",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Department.h",
+              "RelativeToolTip": "T5_2\\Department.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T21:06:16.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Toys.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Toys.cpp",
+              "RelativeDocumentMoniker": "T5_2\\Toys.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Toys.cpp",
+              "RelativeToolTip": "T5_2\\Toys.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T21:06:12.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Toys.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Toys.h",
+              "RelativeDocumentMoniker": "T5_2\\Toys.h",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Toys.h",
+              "RelativeToolTip": "T5_2\\Toys.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T21:06:06.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shoes.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Shoes.cpp",
+              "RelativeDocumentMoniker": "T5_2\\Shoes.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Shoes.cpp",
+              "RelativeToolTip": "T5_2\\Shoes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T21:06:02.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shoes.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Shoes.h",
+              "RelativeDocumentMoniker": "T5_2\\Shoes.h",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Shoes.h",
+              "RelativeToolTip": "T5_2\\Shoes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T21:05:58.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Product.cpp",
+              "RelativeDocumentMoniker": "T5_2\\Product.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Product.cpp",
+              "RelativeToolTip": "T5_2\\Product.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T21:05:48.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Product.h",
+              "RelativeDocumentMoniker": "T5_2\\Product.h",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\Product.h",
+              "RelativeToolTip": "T5_2\\Product.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T21:05:39.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "T5_2.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\T5_2.cpp",
+              "RelativeDocumentMoniker": "T5_2\\T5_2.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 5\\T5_2\\T5_2\\T5_2.cpp",
+              "RelativeToolTip": "T5_2\\T5_2.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T21:04:36.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
