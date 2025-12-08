@@ -1,0 +1,3 @@
+﻿  Complex.cpp
+C:\OOP lab\Lab 7\T6_1\T6_1\Complex.cpp(22,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  T6_1.vcxproj -> C:\OOP lab\Lab 7\T6_1\x64\Debug\T6_1.exe
