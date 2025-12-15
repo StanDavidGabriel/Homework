@@ -1,0 +1,3 @@
+﻿  T9_3.cpp
+C:\OOP lab\Lab 8\T9_3\T9_3\T9_3.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  T9_3.vcxproj -> C:\OOP lab\Lab 8\T9_3\x64\Debug\T9_3.exe

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OOP lab\\Lab 8\\T9_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\T9_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|solutionrelative:T9_3\\T9_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Plane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|solutionrelative:T9_3\\Plane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Bike.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|solutionrelative:T9_3\\Bike.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Bike.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|solutionrelative:T9_3\\Bike.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|solutionrelative:T9_3\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Plane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|solutionrelative:T9_3\\Plane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|solutionrelative:T9_3\\Vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|solutionrelative:T9_3\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F30C1BE7-05C8-42D9-8002-0D84CA2293AA}|T9_3\\T9_3.vcxproj|solutionrelative:T9_3\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "T9_3.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\T9_3.cpp",
+              "RelativeDocumentMoniker": "T9_3\\T9_3.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\T9_3.cpp",
+              "RelativeToolTip": "T9_3\\T9_3.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T20:51:07.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plane.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Plane.cpp",
+              "RelativeDocumentMoniker": "T9_3\\Plane.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Plane.cpp",
+              "RelativeToolTip": "T9_3\\Plane.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T20:52:55.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plane.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Plane.h",
+              "RelativeDocumentMoniker": "T9_3\\Plane.h",
+              "ToolTip": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Plane.h",
+              "RelativeToolTip": "T9_3\\Plane.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-15T20:52:47.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Car.cpp",
+              "RelativeDocumentMoniker": "T9_3\\Car.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Car.cpp",
+              "RelativeToolTip": "T9_3\\Car.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T20:52:38.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Car.h",
+              "RelativeDocumentMoniker": "T9_3\\Car.h",
+              "ToolTip": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Car.h",
+              "RelativeToolTip": "T9_3\\Car.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-15T20:52:31.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bike.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Bike.cpp",
+              "RelativeDocumentMoniker": "T9_3\\Bike.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Bike.cpp",
+              "RelativeToolTip": "T9_3\\Bike.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T20:52:17.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bike.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Bike.h",
+              "RelativeDocumentMoniker": "T9_3\\Bike.h",
+              "ToolTip": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Bike.h",
+              "RelativeToolTip": "T9_3\\Bike.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-15T20:52:12.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cpp",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Vehicle.cpp",
+              "RelativeDocumentMoniker": "T9_3\\Vehicle.cpp",
+              "ToolTip": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Vehicle.cpp",
+              "RelativeToolTip": "T9_3\\Vehicle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T20:51:52.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.h",
+              "DocumentMoniker": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Vehicle.h",
+              "RelativeDocumentMoniker": "T9_3\\Vehicle.h",
+              "ToolTip": "C:\\OOP lab\\Lab 8\\T9_3\\T9_3\\Vehicle.h",
+              "RelativeToolTip": "T9_3\\Vehicle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-15T20:51:16.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
